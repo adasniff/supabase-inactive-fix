@@ -1,8 +1,8 @@
 [
   {
-    "name": "MyProject",
+    "name": "Dise",
     "supabase_url": "https://pceyfgrmdfhjxldvofec.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_1",
-    "table_name": "me-live"
+    "table_name": "me_live"
   }
 ]
